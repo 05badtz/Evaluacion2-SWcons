@@ -1,0 +1,11 @@
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\bin\Debug\CrudDAL.dll
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\bin\Debug\CrudDAL.pdb
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\bin\Debug\CrudBOL.dll
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\bin\Debug\CrudBOL.pdb
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\obj\Debug\CrudDAL.csproj.AssemblyReference.cache
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\obj\Debug\CrudDAL.csproj.CoreCompileInputs.cache
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\obj\Debug\CrudDAL.csproj.Up2Date
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\obj\Debug\CrudDAL.dll
+C:\Users\killu\OneDrive\Escritorio\Proyectos Visual\CrudDAL\obj\Debug\CrudDAL.pdb

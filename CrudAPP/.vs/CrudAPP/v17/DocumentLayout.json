@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudDAL\\AlumnosDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudDAL\\AsignaturasDAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|c:\\users\\killu\\onedrive\\escritorio\\proyectos visual\\evaluacion2-swcons\\crudapp\\asignaturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|solutionrelative:asignaturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|c:\\users\\killu\\onedrive\\escritorio\\proyectos visual\\evaluacion2-swcons\\crudapp\\alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|solutionrelative:alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\asignaturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|solutionrelative:asignaturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|solutionrelative:alumnosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|c:\\users\\killu\\onedrive\\escritorio\\proyectos visual\\evaluacion2-swcons\\crudapp\\asignaturasform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|solutionrelative:asignaturasform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|c:\\users\\killu\\onedrive\\escritorio\\proyectos visual\\evaluacion2-swcons\\crudapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAFB277B-2F53-49E8-B15B-8C3BE8B4297C}|CrudAPP.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBL\\AlumnosBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBOL\\AsignaturaBOL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBOL\\AlumnoBOL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBL\\AsignaturasBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignaturasDAL.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudDAL\\AsignaturasDAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\CrudDAL\\AsignaturasDAL.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudDAL\\AsignaturasDAL.cs",
+              "RelativeToolTip": "..\\..\\CrudDAL\\AsignaturasDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:39:02.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudDAL\\AlumnosDAL.cs",
+              "RelativeDocumentMoniker": "..\\..\\CrudDAL\\AlumnosDAL.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudDAL\\AlumnosDAL.cs",
+              "RelativeToolTip": "..\\..\\CrudDAL\\AlumnosDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:16:20.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlumnosBL.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBL\\AlumnosBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\CrudBL\\AlumnosBL.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBL\\AlumnosBL.cs",
+              "RelativeToolTip": "..\\..\\CrudBL\\AlumnosBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:58:47.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnosForm.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AlumnosForm.cs",
+              "RelativeDocumentMoniker": "AlumnosForm.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AlumnosForm.cs",
+              "RelativeToolTip": "AlumnosForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:45:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsignaturasForm.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AsignaturasForm.cs",
+              "RelativeDocumentMoniker": "AsignaturasForm.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AsignaturasForm.cs",
+              "RelativeToolTip": "AsignaturasForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:53:26.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsignaturaBOL.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBOL\\AsignaturaBOL.cs",
+              "RelativeDocumentMoniker": "..\\..\\CrudBOL\\AsignaturaBOL.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBOL\\AsignaturaBOL.cs",
+              "RelativeToolTip": "..\\..\\CrudBOL\\AsignaturaBOL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:21:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlumnoBOL.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBOL\\AlumnoBOL.cs",
+              "RelativeDocumentMoniker": "..\\..\\CrudBOL\\AlumnoBOL.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBOL\\AlumnoBOL.cs",
+              "RelativeToolTip": "..\\..\\CrudBOL\\AlumnoBOL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:20:14.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsignaturasBL.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBL\\AsignaturasBL.cs",
+              "RelativeDocumentMoniker": "..\\..\\CrudBL\\AsignaturasBL.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudBL\\AsignaturasBL.cs",
+              "RelativeToolTip": "..\\..\\CrudBL\\AsignaturasBL.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswGYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:25:08.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlumnosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AlumnosForm.cs",
+              "RelativeDocumentMoniker": "AlumnosForm.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudAPP\\AlumnosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CrudAPP\\AlumnosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:54:14.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsignaturasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AsignaturasForm.cs",
+              "RelativeDocumentMoniker": "AsignaturasForm.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudAPP\\AsignaturasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CrudAPP\\AsignaturasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:54:31.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsignaturasForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AsignaturasForm.Designer.cs",
+              "RelativeDocumentMoniker": "AsignaturasForm.Designer.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\AsignaturasForm.Designer.cs",
+              "RelativeToolTip": "AsignaturasForm.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADgvz4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:24:15.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:53:07.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\Evaluacion2-SWCons\\CrudAPP\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\killu\\OneDrive\\Escritorio\\Proyectos Visual\\CrudAPP\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CrudAPP\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:37:14.639Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
