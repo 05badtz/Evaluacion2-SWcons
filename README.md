@@ -28,11 +28,11 @@ La aplicación está diseñada para manejar datos de alumnos y asignaturas en un
 3. Navegue a la sección deseada para gestionar alumnos o asignaturas.
 4. Utilice las opciones para agregar, editar o eliminar registros.
 5. Para modificar:
-  - Debe seleccionar una fila de la lista, dar click derecho y seleccionar la opción "Modificar".
-  - "Alumnos" no puede repetir el email o el número de matricula.
-  - "Asignaturas" no puede repetir el nombre de la asignatura.
+    - Debe seleccionar una fila de la lista, dar click derecho y seleccionar la opción "Modificar".
+    - "Alumnos" no puede repetir el email o el número de matricula.
+    - "Asignaturas" no puede repetir el nombre de la asignatura.
 6. Para eliminar:
-  - Debe seleccionar una fila de la lista, dar click derecho y seleccionar la opción "Eliminar".
+    - Debe seleccionar una fila de la lista, dar click derecho y seleccionar la opción "Eliminar".
 7. Los cambios serán guardados automáticamente y se verán reflejados en el listado.
 
 
